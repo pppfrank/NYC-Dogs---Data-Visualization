@@ -1,0 +1,129 @@
+{
+    "nodes":
+ [
+     {"name":"Yorkshire"},
+     
+     {"name":"Shih Tzu"},
+     
+     {"name":"Labrador & Crossbreed"},
+     
+     {"name":"Pit Bull & Mix"},
+     
+     {"name":"Chihuahua"},
+     
+     {"name":"Maltese"},
+     
+     {"name":"German Shepherd & Crossbreed"},
+     
+     {"name":"Pomeranian"},
+     
+     {"name":"Beagle"},
+     
+     {"name":"Jack Russell"},
+     
+     {"name":"Havanese"},
+     
+     {"name":"Golden Retriever"},
+     
+     {"name":"Cocker Spaniel"},
+     
+     {"name":"Pug"},
+     
+     {"name":"Cavalier King Charles Spaniel"},
+     
+     {"name":"Shiba Inu"},
+     
+     {"name":"Size: Small"},
+     
+     {"name":"Size: Medium"},
+     
+     {"name":"Size: Large"},
+     
+     {"name":"Manhattan"},
+     
+     {"name":"Bronx"},
+     
+     {"name":"Queens"},
+     
+     {"name":"Brooklyn"},
+     
+     {"name":"Staten Island"},
+     
+     {"name":"Sex: Female"},
+     
+     {"name":"Sex: Male"}
+     
+
+ ],
+    
+    
+ 
+    "links":
+ [
+     {"source":0,"target":16,"value":7773},
+     
+     {"source":1,"target":16,"value":7141},
+          
+     {"source":2,"target":18,"value":6790},
+     
+     {"source":3,"target":17,"value":6742},
+     
+     {"source":4,"target":16,"value":5771},
+     
+     {"source":5,"target":16,"value":4292},
+     
+     {"source":6,"target":18,"value":3388},
+     
+     {"source":7,"target":16,"value":2195},
+     
+     {"source":8,"target":17,"value":2106},
+     
+     {"source":9,"target":17,"value":2035},
+     
+     {"source":10,"target":17,"value":2028},
+     
+     {"source":11,"target":18,"value":1940},
+     
+     {"source":12,"target":17,"value":1828},
+     
+     {"source":13,"target":16,"value":1558},
+     
+     {"source":14,"target":17,"value":1445},
+     
+     {"source":15,"target":17,"value":1441},
+     
+     {"source":16,"target":19,"value":8315},     
+     {"source":16,"target":20,"value":4132},
+     {"source":16,"target":21,"value":6335},     
+     {"source":16,"target":22,"value":7364},     
+     {"source":16,"target":23,"value":2584},
+     
+     {"source":17,"target":19,"value":5931},
+     {"source":17,"target":20,"value":1993},
+     {"source":17,"target":21,"value":3695},
+     {"source":17,"target":22,"value":4395},
+     {"source":17,"target":23,"value":1611},
+     
+     {"source":18,"target":19,"value":4241},
+     {"source":18,"target":20,"value":872},
+     {"source":18,"target":21,"value":2561},
+     {"source":18,"target":22,"value":3126},
+     {"source":18,"target":23,"value":1318},
+     
+     {"source":19,"target":24,"value":8609},
+     {"source":19,"target":25,"value":9879},
+     
+     {"source":20,"target":24,"value":3060},
+     {"source":20,"target":25,"value":3937},
+     
+     {"source":21,"target":24,"value":5455},
+     {"source":21,"target":25,"value":7136},
+     
+     {"source":22,"target":24,"value":6724},
+     {"source":22,"target":25,"value":8161},
+     
+     {"source":23,"target":24,"value":2480},
+     {"source":23,"target":25,"value":3033}
+     
+ ]
+}
