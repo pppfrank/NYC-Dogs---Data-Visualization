@@ -1,15 +1,26 @@
 #chart {
   position: absolute;
-  top: 15%;
+  top: 18%;
+/*  bottom: 15%;*/
+  
   left: 300px;
+/*  Right: 25%;*/
+/*  border: 10px solid white;*/
+    
+    
+    
 }
 
 #pic {
     
   position: absolute;
   top: 10%;
+/*  bottom: 15%;*/
+  
   left: 1391px;
-  width:108px;height:153px;border:0;"
+/*  Right: 25%;*/
+/*  border: 10px solid white;*/
+    width:108px;height:153px;border:0;"
         
         
         
@@ -18,12 +29,27 @@
 
 #title {
     position: absolute;
-    left: 1000px;
-    top: 150;    
+	left: 1000px;
+	top: 150;
+    
     color: #535353;
     font-size: 80px;
+/*	width: 175px;*/
     border: none;
+    /* border-radius: 10px; */
+/*    padding: 0 10 0 10;*/
+    /* font-size: larger; */
     font-family: vt323;
     cursor: pointer;    
 }
-  
+
+#copyright {
+    position: absolute;
+	left: 45%;
+	top: 90%;
+    /* margin: 20px; */
+    color: #535353;   
+	font-size: 0.8em;
+    font-family: roboto;
+     
+}
