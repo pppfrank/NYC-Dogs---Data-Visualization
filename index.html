@@ -5,17 +5,30 @@
     <head>
         <link href="https://fonts.googleapis.com/css?family=Roboto:400i" rel="stylesheet">
         
+        <link href="https://fonts.googleapis.com/css?family=Cabin|Inconsolata|Nunito|Nunito+Sans|Pacifico|Quicksand|Roboto+Mono:500|Rubik|VT323" rel="stylesheet">
+        
+        <link rel="stylesheet" href="chart.css">
+        
     </head>
+    
+    
+    <body>
+     
+        <img src="ju4.jpg" alt="My GSD" id='pic'>
+        <div id='title'><p>Dogs in NYC</P></div>
+        
+    </body>
     
     
 </html>
 
-<svg width="1500" height="700"></svg>
+<svg width="1200" height="500" id='chart'></svg>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://unpkg.com/d3-sankey@0.6"></script>
 <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
 
 <script>
+
 var svg = d3.select("svg"),
     width = +svg.attr("width"),
     height = +svg.attr("height");

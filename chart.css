@@ -1,0 +1,45 @@
+#chart {
+  position: absolute;
+  top: 15%;
+/*  bottom: 15%;*/
+  
+  left: 300px;
+/*  Right: 25%;*/
+/*  border: 10px solid white;*/
+    
+    
+    
+}
+
+#pic {
+    
+  position: absolute;
+  top: 10%;
+/*  bottom: 15%;*/
+  
+  left: 1391px;
+/*  Right: 25%;*/
+/*  border: 10px solid white;*/
+    width:108px;height:153px;border:0;"
+        
+        
+        
+    }
+
+
+#title {
+    position: absolute;
+	left: 1000px;
+	top: 150;
+    
+    color: #535353;
+    font-size: 80px;
+/*	width: 175px;*/
+    border: none;
+    /* border-radius: 10px; */
+/*    padding: 0 10 0 10;*/
+    /* font-size: larger; */
+    font-family: vt323;
+    cursor: pointer;    
+}
+  
